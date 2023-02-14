@@ -1,0 +1,46 @@
+<?xml version: "1.0" encoding="UTF-8"?>
+<request>
+	<Ssids>
+		<Ssid>
+			<WifiWep128Key1/>
+			<Index>0</Index>
+			<WifiAuthmode>WPA2-PSK</WifiAuthmode>
+			<WifiWepKeyIndex>1</WifiWepKeyIndex>
+			<WifiWpaencryptionmodes>AES</WifiWpaencryptionmodes>
+			<WifiBroadcast>0</WifiBroadcast>
+			<WifiWep128Key3/>
+			<MixWifiWpapsk>29f72b8a67eb7395c0c46e411dc1c8c51fd641425faf8cc461f3491dc5c2e3f444e41c0d5fb42fce4240af01edce37b8e3edf607c0ef1c3a3341ad23736205c89d91540707a6d7710c59f9ac286e6b4a308ea276e1c663862e6f54b7fcadf68e56d5805157999c9555c01a2d217e41f6230d18998ede1e94476eb5ffc35f9d0e61d7c8092e7edbd1886163f09addb51d7d02e3d256e107cc95321fb2fcfbde06ffd956124c345e97d6d1ef634023b0e799c88f7d9a11dec46872ed032f2aefe8b725755c26a94ae695dbbd4f4c3ca365d4d1b335b33c807b2b3ad1805ac58182e405d20a5503f5abd41d758762d54b4ac14036f2280d2c824cb9a00966c6600e</MixWifiWpapsk>
+			<WifiWpapsk>29f72b8a67eb7395c0c46e411dc1c8c51fd641425faf8cc461f3491dc5c2e3f444e41c0d5fb42fce4240af01edce37b8e3edf607c0ef1c3a3341ad23736205c89d91540707a6d7710c59f9ac286e6b4a308ea276e1c663862e6f54b7fcadf68e56d5805157999c9555c01a2d217e41f6230d18998ede1e94476eb5ffc35f9d0e61d7c8092e7edbd1886163f09addb51d7d02e3d256e107cc95321fb2fcfbde06ffd956124c345e97d6d1ef634023b0e799c88f7d9a11dec46872ed032f2aefe8b725755c26a94ae695dbbd4f4c3ca365d4d1b335b33c807b2b3ad1805ac58182e405d20a5503f5abd41d758762d54b4ac14036f2280d2c824cb9a00966c6600e</WifiWpapsk>
+			<WifiMac>BC:1A:E4:0C:1A:9E</WifiMac>
+			<WifiSsid>Scouts Rumbeke</WifiSsid>
+			<wifiisguestnetwork>0</wifiisguestnetwork>
+			<wifiguestofftime>4</wifiguestofftime>
+			<WifiWep128Key4/>
+			<ID>InternetGatewayDevice.X_Config.Wifi.Radio.1.Ssid.1.</ID>
+			<wifisupportsecmodelist/>
+			<WifiEnable>1</WifiEnable>
+			<WifiWep128Key2/>
+		</Ssid>
+		<Ssid>
+			<WifiWep128Key1/>
+			<Index>5</Index>
+			<WifiAuthmode>WPA2-PSK</WifiAuthmode>
+			<WifiWepKeyIndex>1</WifiWepKeyIndex>
+			<WifiWpaencryptionmodes>AES</WifiWpaencryptionmodes>
+			<WifiBroadcast>0</WifiBroadcast>
+			<WifiWep128Key3/>
+			<MixWifiWpapsk>915255027402c0559d00d9d5379d61e09a926aad884f1ddccae6dc987e8f02306cc7252910f3d4324b3cca97e58babc32d567ab79d28c6ed0da8ffca3c52f2e5539bdcfafde01484b0d6a5af0ea5e785ccb1544a01ffa8f6286c23a807e67d2638618113857eb4afedaa26913c3bca163ee716eeaecd26a7045cbd41a077fab4bfff4189433dc2c93506c98d5c0de2de8930a505f9e5ed44ad79ea7af15a0a6ce72d1465cdca58c0a52e69b523d7c54f071ff012875806423cc3b7e090fc9cbb5ccdc61d81aafcf9ad1ea023f2664ccc6fb8e159dcb39411a6f4d4f0fbbb4e1663856acf228a8154f4234bb64e9305a89e13c82d6442a08e5efb76c2f8662f7e</MixWifiWpapsk>
+			<WifiWpapsk>915255027402c0559d00d9d5379d61e09a926aad884f1ddccae6dc987e8f02306cc7252910f3d4324b3cca97e58babc32d567ab79d28c6ed0da8ffca3c52f2e5539bdcfafde01484b0d6a5af0ea5e785ccb1544a01ffa8f6286c23a807e67d2638618113857eb4afedaa26913c3bca163ee716eeaecd26a7045cbd41a077fab4bfff4189433dc2c93506c98d5c0de2de8930a505f9e5ed44ad79ea7af15a0a6ce72d1465cdca58c0a52e69b523d7c54f071ff012875806423cc3b7e090fc9cbb5ccdc61d81aafcf9ad1ea023f2664ccc6fb8e159dcb39411a6f4d4f0fbbb4e1663856acf228a8154f4234bb64e9305a89e13c82d6442a08e5efb76c2f8662f7e</WifiWpapsk>
+			<WifiMac>BC:1A:E4:0C:1A:A3</WifiMac>
+			<WifiSsid>Scouts Rumbeke</WifiSsid>
+			<wifiisguestnetwork>0</wifiisguestnetwork>
+			<wifiguestofftime>4</wifiguestofftime>
+			<WifiWep128Key4/>
+			<ID>InternetGatewayDevice.X_Config.Wifi.Radio.2.Ssid.1.</ID>
+			<wifisupportsecmodelist/>
+			<WifiEnable>1</WifiEnable>
+			<WifiWep128Key2/>
+		</Ssid>
+	</Ssids>
+	<WifiRestart>1</WifiRestart>
+</request>

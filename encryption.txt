@@ -1,0 +1,14 @@
+210a6a4e6e28fa889062e2ed8292fb641936d0735efc768d93f98137823fac69
+
+
+
+basicdata.WifiWpapsk = this.encryptWifiKey(idprefix + '_wpa_key', sourcedata.WifiWpapsk);
+
+
+
+idprefix
+	wifiadv_2g_
+		OF
+	wifiadv_5g_
+	
+	
