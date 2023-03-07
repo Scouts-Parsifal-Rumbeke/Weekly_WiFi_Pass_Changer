@@ -21,9 +21,9 @@ Maakt gebruik van [Salamek/huawei-lte-api](https://github.com/Salamek/huawei-lte
 * Virtual environment aanmaken: `python -m venv ./venv`
 * VENV activeren: `.\venv\Scripts\activate`
 * De nodige modules downloaden: `pip install --no-cache-dir -r requirements.txt --upgrade`
-* `python ./wifiPassChanger.py` --> Momenteel nog een andere naam
+* `python ./main.py`
   
 ## NUITKA
 
 * `python -m nuitka --version` Control installation
-* `python -m nuitka --follow-imports .\wifiPassChanger.py` Compile Python script to .exe
+* `python -m nuitka --onefile --disable-console --windows-icon-from-ico=icon_scouts.ico --enable-plugin=tk-inter .\main.py` Compile Python script to .exe
