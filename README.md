@@ -27,7 +27,3 @@ Maakt gebruik van [Salamek/huawei-lte-api](https://github.com/Salamek/huawei-lte
 
 * `python -m nuitka --version` Control installation
 * `python -m nuitka --onefile --disable-console --windows-icon-from-ico=icon_scouts.ico --enable-plugin=tk-inter --include-data-files="*.ico=./" --include-data-files="*.json=./" .\main.py`
-
-
-## PYINSTALLER
-`pyinstaller --onefile --windowed --add-data="./icon_black.ico;./icon_black.ico" main.py`
