@@ -2,4 +2,3 @@ huawei-lte-api
 nuitka
 ordered-set
 zstandard
-python-dotenv
